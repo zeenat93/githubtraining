@@ -4,3 +4,7 @@ type option
 colors vibrants
 dark mood 
 video option
+
+payment method 
+send money 
+recieve money 
