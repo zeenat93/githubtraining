@@ -2,3 +2,5 @@ this is chat application
 emoji
 type option 
 colors vibrants
+dark mood 
+video option
