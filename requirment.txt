@@ -8,3 +8,5 @@ video option
 payment method 
 send money 
 recieve money 
+
+new new
