@@ -1,0 +1,4 @@
+this is chat application
+emoji
+type option 
+colors vibrants
